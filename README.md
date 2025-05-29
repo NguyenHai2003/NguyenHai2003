@@ -1,9 +1,6 @@
-# 💫About Me :
-## 👋 Hi, I'm Hai Nguyen Vu
-## 🎓 Posts and Telecommunications Institute of Technology, Ho Chi Minh City - majoring in Software Engineering
-## 🖥️ Back-End Developer
-## 📫 Contact Me
-### - 📧 Email: nguyenvuhai60@gmail.com 
+##👋 Hi, I'm Hai Nguyen Vu
+🎓 Final-year IT student | 💻 Passionate about Back-End Development
+Currently learning Java, Spring Boot, and SQL to build scalable server-side applications.
 
 
 ## 🌐Socials
@@ -16,5 +13,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenHai2003&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHai2003&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NguyenHai2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
