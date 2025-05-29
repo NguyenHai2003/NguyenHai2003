@@ -1,9 +1,9 @@
 # 💫About Me :
-# 👋 Hi, I'm Hai Nguyen Vu
-# 🎓 Posts and Telecommunications Institute of Technology, Ho Chi Minh City - majoring in Software Engineering
-# 🖥️ Back-End Developer
-# 📫 Contact Me
-## - 📧 Email: nguyenvuhai60@gmail.com 
+## 👋 Hi, I'm Hai Nguyen Vu
+## 🎓 Posts and Telecommunications Institute of Technology, Ho Chi Minh City - majoring in Software Engineering
+## 🖥️ Back-End Developer
+## 📫 Contact Me
+### - 📧 Email: nguyenvuhai60@gmail.com 
 
 
 ## 🌐Socials
