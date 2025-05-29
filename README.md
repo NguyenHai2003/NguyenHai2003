@@ -1,6 +1,6 @@
 ##👋 Hi, I'm Hai Nguyen Vu
-🎓 Final-year IT student | 💻 Passionate about Back-End Development
-Currently learning Java, Spring Boot, and SQL to build scalable server-side applications.
+![](🎓 Final-year IT student | 💻 Passionate about Back-End Development Currently learning Java, Spring Boot, and SQL to build scalable server-side applications.)<br/>
+🎓 Final-year IT student | 💻 Passionate about Back-End Development Currently learning Java, Spring Boot, and SQL to build scalable server-side applications.
 
 
 ## 🌐Socials
